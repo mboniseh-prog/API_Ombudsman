@@ -1,0 +1,6 @@
+@OmbudsmanAPI_HostAddress = http://localhost:5269
+
+GET {{OmbudsmanAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
